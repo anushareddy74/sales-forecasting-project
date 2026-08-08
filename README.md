@@ -2,7 +2,7 @@
 
 An end-to-end sales forecasting project analyzing 4 years of retail order data, built as a final-year Data Science project. Includes data cleaning, exploratory analysis, a time-series forecasting model, rigorous evaluation, and an interactive dashboard.
 
-🔗 **Live demo:** *(add your Streamlit Cloud link here if deployed — see Deployment section)*
+🔗 **Live demo:** https://sales-forecasting-project-9zodvw6rzsmyyirvjctzm6.streamlit.app/
 
 ## Overview
 This project forecasts future retail sales using 4 years (2015–2018) of Superstore order data. It walks through the full data science workflow: cleaning, exploratory analysis, model building, evaluation, and deployment as an interactive dashboard.
